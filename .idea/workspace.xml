@@ -2,96 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My java learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/Array2d2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/ArrayInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/Arry2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/ArryExc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/ArryMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/MaxMinArry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/array/TwoDi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/helloWord/HelloWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/inputusers/InputUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/DoWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/ForLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/Forloop2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/WhileInputData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/WhileLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/loop/WhileloopNamta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/method/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/method/Teachertest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/method2/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/method2/Teachertest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/methodconstructor/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/methodconstructor/Teachertest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/problemsolv/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/problemsolv/Boxvolume.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/returnmethod/Returingmethodtest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/returnmethod/Returningmethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statement/CapitalSmall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statement/DigitExplain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statement/IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statement/Namta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statement/StatementCondition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticMethod/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticMethod/staticmethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticVariableCounting/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticVariableCounting/Studenttest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticskeyword/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/staticskeyword/Studenttest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/statment/VowelConsonent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/testJava/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/tttastnnn/Hlw.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My java learn/variabletypes/Variabletype.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array2d2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Arry2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArryExc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArryMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MaxMinArry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/TwoDi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helloWord/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inputusers/InputUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Forloop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/WhileInputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/WhileloopNamta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Teachertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method2/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method2/Teachertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodconstructor/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodconstructor/Teachertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolv/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsolv/Boxvolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/returnmethod/Returingmethodtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/returnmethod/Returningmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/CapitalSmall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/DigitExplain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/Namta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/StatementCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statement/VowelConsonent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticMethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticMethod/staticmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticVariableCounting/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticVariableCounting/Studenttest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticskeyword/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticskeyword/Studenttest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testJava/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tttastnnn/Hlw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variabletypes/Variabletype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritence/Personn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritence/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritence/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1q9yUW4OiSkH5jxpuGeUGyyQiCu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -148,7 +65,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Array" />
       <module name="My java learn" />
@@ -159,19 +76,6 @@
         </pattern>
       </extension>
       <method v="2" />
-    </configuration>
-    <configuration name="Array2d2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Array2d2" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="MakeNoErrorCheck" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Arry2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Arry2" />
@@ -262,6 +166,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritence.Test" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration name="TwoDi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.TwoDi" />
       <module name="My java learn" />
@@ -311,18 +226,18 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.TwoDi" />
-      <item itemvalue="Application.Array2d2" />
       <item itemvalue="Application.Arry2" />
       <item itemvalue="Application.ArryMatrix" />
       <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.ArryMatrix" />
         <item itemvalue="Application.Arry2" />
         <item itemvalue="Application.TwoDi" />
-        <item itemvalue="Application.Array2d2" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +301,8 @@
       <workItem from="1619371894571" duration="1671000" />
       <workItem from="1619412748064" duration="362000" />
       <workItem from="1619460053309" duration="18000" />
+      <workItem from="1619504351484" duration="931000" />
+      <workItem from="1619594330749" duration="1924000" />
     </task>
     <servers />
   </component>
@@ -409,10 +326,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1616573954214" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619372656869">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619596709640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1619372656869" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1619596709640" />
     <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616506478329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -433,38 +350,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617185772628" />
-    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1619373579323">
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1619597457349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619373579323" />
-    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1619373579323">
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619597457349" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1619597457348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619373579323" />
-    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1619373579323">
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619597457348" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1619597457348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619373579323" />
-    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1619373579323">
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619597457348" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1619597457348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619373579323" />
-    <state width="1323" height="94" key="GridCell.Tab.1.bottom" timestamp="1619373578213">
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619597457348" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1619597428218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="94" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619373578213" />
-    <state width="1323" height="94" key="GridCell.Tab.1.center" timestamp="1619373578213">
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619597428218" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1619597428218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="94" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619373578213" />
-    <state width="1323" height="94" key="GridCell.Tab.1.left" timestamp="1619373578213">
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619597428218" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1619597428218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="94" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619373578213" />
-    <state width="1323" height="94" key="GridCell.Tab.1.right" timestamp="1619373578213">
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619597428218" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1619597428218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="94" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619373578213" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619597428218" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1616579509407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
