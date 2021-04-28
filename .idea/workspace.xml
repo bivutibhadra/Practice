@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/inheritence/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/inheritence/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/inheritence/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritence/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritence/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritence/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritence/Test.java" afterDir="false" />
     </list>
@@ -139,6 +141,17 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InputUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inputusers.InputUser" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputusers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration name="Studenttest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="staticskeyword.Studenttest" />
       <module name="My java learn" />
@@ -171,17 +184,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inheritence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
-    <configuration name="TwoDi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.TwoDi" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,19 +226,19 @@
       <item itemvalue="Application.WhileloopNamta" />
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
-      <item itemvalue="Application.TwoDi" />
       <item itemvalue="Application.Arry2" />
       <item itemvalue="Application.ArryMatrix" />
       <item itemvalue="Application.Array" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.InputUser" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InputUser" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.ArryMatrix" />
         <item itemvalue="Application.Arry2" />
-        <item itemvalue="Application.TwoDi" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +303,7 @@
       <workItem from="1619412748064" duration="362000" />
       <workItem from="1619460053309" duration="18000" />
       <workItem from="1619504351484" duration="931000" />
-      <workItem from="1619594330749" duration="3071000" />
+      <workItem from="1619594330749" duration="11367000" />
     </task>
     <servers />
   </component>
@@ -349,22 +351,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617185772628" />
-    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1619598511005">
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1619615825426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619598511005" />
-    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1619598511005">
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619615825426" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1619615825426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619598511005" />
-    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1619598511005">
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619615825426" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1619615825426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619598511005" />
-    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1619598511005">
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619615825426" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1619615825426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619598511005" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619615825426" />
     <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1619597428218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
