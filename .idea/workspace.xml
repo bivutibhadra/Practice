@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheretenceThree/Annimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheretenceThree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheretenceThree/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheretenceThree/TestThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloding/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloding/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloding/TestOverloding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/methodOverloding/TestOverloding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/methodOverloding/TestOverloding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodOverloding/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverride/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodOverloding/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverride/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodOverloding/TestOverloding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverride/TestOverloding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +44,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1q9yUW4OiSkH5jxpuGeUGyyQiCu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -169,11 +167,11 @@
       <method v="2" />
     </configuration>
     <configuration name="TestOverloding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodOverloding.TestOverloding" />
+      <option name="MAIN_CLASS_NAME" value="methodOverride.TestOverloding" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methodOverloding.*" />
+          <option name="PATTERN" value="methodOverride.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,7 +307,8 @@
       <workItem from="1619681701788" duration="23000" />
       <workItem from="1619691220027" duration="1947000" />
       <workItem from="1619697756572" duration="4098000" />
-      <workItem from="1619713587700" duration="5275000" />
+      <workItem from="1619713587700" duration="5680000" />
+      <workItem from="1619760921884" duration="2657000" />
     </task>
     <servers />
   </component>
@@ -365,22 +364,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619694078928" />
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1619720893816">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1619761654032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619720893816" />
-    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1619720893815">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619761654032" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1619761654032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619720893815" />
-    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1619720893815">
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619761654032" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1619761654032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619720893815" />
-    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1619720893815">
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619761654032" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1619761654032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619720893815" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619761654032" />
     <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1619702938558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -405,6 +404,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617475514700" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619764852581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1619764852581" />
     <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1617478423860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

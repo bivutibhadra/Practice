@@ -1,4 +1,4 @@
-package methodOverloding;
+package methodOverride;
 
 public class Person {
     String name;

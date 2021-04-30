@@ -1,5 +1,5 @@
 
-package methodOverloding;
+package methodOverride;
 
 public class TestOverloding {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class TestOverloding {
 
         t1.displayInformation();
 
-        p1.name="Hashidhar";
+        p1.name="Hashi dhar";
         p1.age=18;
 
         p1.displayInformation();

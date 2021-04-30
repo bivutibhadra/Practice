@@ -1,4 +1,4 @@
-package methodOverloding;
+package methodOverride;
 
 public class Teacher extends Person {
     String quali;
