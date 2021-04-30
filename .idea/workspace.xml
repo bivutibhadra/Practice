@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/superKeyword/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superKeyword/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superKeyword/TestSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superMethodOverloding/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superMethodOverloding/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superMethodOverloding/TestAB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My java learn/methodOverloding/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My java learn/methodOverloding/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My java learn/methodOverloding/TestOverloding.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.TestSuper">
+  <component name="RunManager" selected="Application.TestAB">
     <configuration name="ForLoop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ForLoop" />
       <module name="My java learn" />
@@ -146,12 +143,12 @@
       </extension>
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritence.Test" />
+    <configuration name="TestAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superMethodOverloding.TestAB" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritence.*" />
+          <option name="PATTERN" value="superMethodOverloding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,19 +224,19 @@
       <item itemvalue="Application.WhileloopNamta" />
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.TestThree" />
       <item itemvalue="Application.TestOverloding" />
       <item itemvalue="Application.TestSuper" />
+      <item itemvalue="Application.TestAB" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSuper" />
+        <item itemvalue="Application.TestAB" />
         <item itemvalue="Application.TestOverloding" />
+        <item itemvalue="Application.TestSuper" />
         <item itemvalue="Application.TestThree" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +307,7 @@
       <workItem from="1619691220027" duration="1947000" />
       <workItem from="1619697756572" duration="4098000" />
       <workItem from="1619713587700" duration="5680000" />
-      <workItem from="1619760921884" duration="5542000" />
+      <workItem from="1619760921884" duration="7137000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -319,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619765127765</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new add">
+      <created>1619769656670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619769656670</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +331,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="new add" />
+    <option name="LAST_COMMIT_MESSAGE" value="new add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="19" key="#DoWhile" timestamp="1617473592499">
@@ -382,22 +387,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619694078928" />
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1619769443062">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1619771255326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619769443062" />
-    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1619769443062">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619771255326" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1619771255326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619769443062" />
-    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1619769443062">
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619771255326" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1619771255326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619769443062" />
-    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1619769443062">
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619771255326" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1619771255326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619769443062" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619771255326" />
     <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1619702938558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
