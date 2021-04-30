@@ -308,12 +308,16 @@
       <workItem from="1619691220027" duration="1947000" />
       <workItem from="1619697756572" duration="4098000" />
       <workItem from="1619713587700" duration="5680000" />
-      <workItem from="1619760921884" duration="2657000" />
+      <workItem from="1619760921884" duration="2893000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="400" y="19" key="#DoWhile" timestamp="1617473592499">
@@ -360,6 +364,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog/0.0.1366.728@0.0.1366.728" timestamp="1619720408965" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1619765092653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1619765092653" />
     <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1619694078928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -404,10 +412,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617475514700" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619764852581">
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619765202250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1619764852581" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1619765202250" />
     <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1617478423860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
