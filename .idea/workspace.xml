@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThisKeyword/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThisKeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisMethod/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisMethod/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +57,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="ForLoop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ForLoop" />
       <module name="My java learn" />
@@ -118,17 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teachertest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodconstructor.Teachertest" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methodconstructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
     <configuration name="Teachertest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.Teachertest" />
       <module name="My java learn" />
@@ -159,6 +149,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThisKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThisMethod.Test" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThisMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,18 +225,18 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.TestAB" />
-      <item itemvalue="Application.Teachertest (1)" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestAB" />
-        <item itemvalue="Application.Teachertest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +309,11 @@
       <workItem from="1619713587700" duration="5680000" />
       <workItem from="1619760921884" duration="7423000" />
       <workItem from="1619852817402" duration="1839000" />
-      <workItem from="1619872197639" duration="7154000" />
+      <workItem from="1619872197639" duration="8214000" />
+      <workItem from="1619887139355" duration="832000" />
+      <workItem from="1619924098191" duration="430000" />
+      <workItem from="1620062536235" duration="1341000" />
+      <workItem from="1620066851078" duration="1017000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -388,46 +393,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1619694078928" />
-    <state width="1323" height="241" key="GridCell.Tab.0.bottom" timestamp="1619881444273">
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1620067824813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="241" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619881444273" />
-    <state width="1323" height="241" key="GridCell.Tab.0.center" timestamp="1619881444273">
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620067824813" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1620067824813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="241" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619881444273" />
-    <state width="1323" height="241" key="GridCell.Tab.0.left" timestamp="1619881444273">
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620067824813" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1620067824813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="241" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619881444273" />
-    <state width="1323" height="241" key="GridCell.Tab.0.right" timestamp="1619881444273">
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620067824813" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1620067824813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="241" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619881444273" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1619702938558">
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620067824813" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1620064210589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619702938558" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1619702938557">
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620064210589" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1620064210589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619702938557" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1619702938557">
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1620064210589" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1620064210589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619702938557" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1619702938558">
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1620064210589" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1620064210589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619702938558" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1620064210589" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1619598386638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1619598386638" />
-    <state x="155" y="0" key="SettingsEditor" timestamp="1617475514700">
+    <state x="155" y="0" key="SettingsEditor" timestamp="1620067233262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617475514700" />
+    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620067233262" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619769846606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
