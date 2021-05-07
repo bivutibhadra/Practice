@@ -5,6 +5,8 @@ public class Test {
 
         Shape [] s = new Shape[3];
 
+        //ai khane polymorphism ba dynaic dispas korchi....
+
         s[0]  = new Shape();
         s[1]  = new Rectangle(11,20);
         s[2]  = new Tringle(10,20);
