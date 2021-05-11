@@ -16,7 +16,7 @@ public class Returingmethodtest {
 
 
        Returningmethod ob2 = new Returningmethod();
-       System.out.println("Result = "+ob2.square(9));
+       System.out.println("Resultt = "+ob2.square(9));
 
 
     }

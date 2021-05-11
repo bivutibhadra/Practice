@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/polymorphism4Abstract/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphismRunTime/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCusting/Narrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCusting/Widening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCusting2/PersonSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCusting2/TeacherSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCusting2/UpCustingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My java learn/polymorphism3/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/polymorphism3/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/polymorphism4Abstract/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/polymorphismRunTime/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/polymorphismRunTime/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/returnmethod/Returingmethodtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/returnmethod/Returingmethodtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphism4Abstract/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/returnmethod/Returingmethodtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/returnmethod/Returingmethodtest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +66,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/All My Work File/shopping-cart-starter-master/build.gradle" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Narrowing">
+    <configuration name="CustingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCusting2.CustingTest" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeCusting2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration name="ForLoop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ForLoop" />
       <module name="My java learn" />
@@ -108,16 +127,29 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodOverride2.MainClass" />
+    <configuration name="Narrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCusting.Narrowing" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methodOverride2.*" />
+          <option name="PATTERN" value="typeCusting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2" />
+    </configuration>
+    <configuration name="Returingmethodtest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="returnmethod.Returingmethodtest" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="returnmethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Studenttest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="staticskeyword.Studenttest" />
@@ -145,45 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="finalKeyword.Test" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="finalKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism3.Test" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polymorphismRunTime.Test" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="polymorphismRunTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
-    <configuration name="TestOverloding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodOverride.TestOverloding" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methodOverride.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,6 +201,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.WhileLoop" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration name="WhileloopNamta" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.WhileloopNamta" />
       <module name="My java learn" />
@@ -215,6 +225,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Widening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCusting.Widening" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeCusting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
@@ -226,19 +247,20 @@
       <item itemvalue="Application.WhileloopNamta" />
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.TestOverloding" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Returingmethodtest" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.WhileLoop" />
+      <item itemvalue="Application.Widening" />
+      <item itemvalue="Application.Narrowing" />
+      <item itemvalue="Application.UpCustingTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Narrowing" />
+        <item itemvalue="Application.UpCustingTest" />
+        <item itemvalue="Application.Widening" />
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.TestOverloding" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +353,13 @@
       <workItem from="1620582489898" duration="237000" />
       <workItem from="1620587197315" duration="617000" />
       <workItem from="1620629993069" duration="1215000" />
-      <workItem from="1620649259436" duration="777000" />
+      <workItem from="1620649259436" duration="5484000" />
+      <workItem from="1620659713768" duration="690000" />
+      <workItem from="1620667422201" duration="66000" />
+      <workItem from="1620668090706" duration="910000" />
+      <workItem from="1620708834509" duration="324000" />
+      <workItem from="1620709202049" duration="175000" />
+      <workItem from="1620753765052" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -359,6 +387,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new add" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="169" key="#BuildArtifactsBeforeRunChooser" timestamp="1620660038106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="169" key="#BuildArtifactsBeforeRunChooser/0.0.1366.728@0.0.1366.728" timestamp="1620660038106" />
     <state x="400" y="19" key="#DoWhile" timestamp="1617473592499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -379,14 +411,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1620415329737" />
+    <state x="275" y="23" key="#Menus_and_Toolbars" timestamp="1620667475904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Menus_and_Toolbars/0.0.1366.728@0.0.1366.728" timestamp="1620667475904" />
     <state x="275" y="23" key="#Notifications" timestamp="1616573954214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1616573954214" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620476211908">
+    <state x="400" y="19" key="#Returingmethodtest" timestamp="1620659988939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620476211908" />
+    <state x="400" y="19" key="#Returingmethodtest/0.0.1366.728@0.0.1366.728" timestamp="1620659988939" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620660392082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620660392082" />
     <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616506478329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -407,6 +447,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1617185888920" />
+    <state x="452" y="146" key="#com.intellij.tools.ToolEditorDialog" timestamp="1620660274928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="146" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1620660274928" />
     <state x="437" y="0" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog" timestamp="1619877517952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -419,54 +463,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620233501260" />
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1620650131419">
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom" timestamp="1620756202316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620650131419" />
-    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1620650131419">
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620756202316" />
+    <state width="1323" height="107" key="GridCell.Tab.0.center" timestamp="1620756202316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620650131419" />
-    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1620650131418">
+    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620756202316" />
+    <state width="1323" height="107" key="GridCell.Tab.0.left" timestamp="1620756202316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620650131418" />
-    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1620650131419">
+    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620756202316" />
+    <state width="1323" height="107" key="GridCell.Tab.0.right" timestamp="1620756202316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620650131419" />
-    <state width="1323" height="151" key="GridCell.Tab.1.bottom" timestamp="1620237684600">
+    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620756202316" />
+    <state width="1323" height="151" key="GridCell.Tab.1.bottom" timestamp="1620660423165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620237684600" />
-    <state width="1323" height="151" key="GridCell.Tab.1.center" timestamp="1620237684600">
+    <state width="1323" height="151" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620660423165" />
+    <state width="1323" height="151" key="GridCell.Tab.1.center" timestamp="1620660423165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1620237684600" />
-    <state width="1323" height="151" key="GridCell.Tab.1.left" timestamp="1620237684599">
+    <state width="1323" height="151" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1620660423165" />
+    <state width="1323" height="151" key="GridCell.Tab.1.left" timestamp="1620660423165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1620237684599" />
-    <state width="1323" height="151" key="GridCell.Tab.1.right" timestamp="1620237684600">
+    <state width="1323" height="151" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1620660423165" />
+    <state width="1323" height="151" key="GridCell.Tab.1.right" timestamp="1620660423165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1620237684600" />
+    <state width="1323" height="151" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1620660423165" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1619598386638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1619598386638" />
-    <state x="155" y="0" key="SettingsEditor" timestamp="1620136894170">
+    <state x="155" y="0" key="SettingsEditor" timestamp="1620709354984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620136894170" />
+    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620709354984" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620709252155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1620709252155" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619769846606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1619769846606" />
-    <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1617478423860">
+    <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1620660275527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.728@0.0.1366.728" timestamp="1617478423860" />
+    <state x="578" y="99" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.728@0.0.1366.728" timestamp="1620660275527" />
     <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1617792874649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
