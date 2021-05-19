@@ -7,7 +7,7 @@ public class Array {
         int[] Number2 = new int[8];                                  //ata ak line aa kora jai....
 
         Number[0] = 10;
-        Number[1] = 5;
+        Number[1] = 6;
         Number[2] = 12;
         Number[3] = 15;                                               //Arry te value store kora
         Number[4] = 20;
