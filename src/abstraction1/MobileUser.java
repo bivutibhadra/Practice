@@ -2,5 +2,10 @@ package abstraction1;
 
 public abstract class  MobileUser {
 
-    abstract void sentMassege();
+
+
+void massege (){
+    System.out.println("hello");
+}
+    abstract void sentMassege();   //abstract method
 }

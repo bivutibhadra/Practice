@@ -5,10 +5,9 @@ public class Test {
 
 
                         //abstarct class aa object toire kora jai na.
-        MobileUser mu;  // Referance variable  toire korlam..
-
-        mu = new Rahim();
+        MobileUser mu = new Rahim();  // Referance variable  toire korlam..
         mu.sentMassege();
+        mu.massege();
 
         mu = new Karim();
         mu.sentMassege();
