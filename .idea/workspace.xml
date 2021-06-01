@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interface1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceMultiple/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceMultiple/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceMultiple/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceMultiple/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/interface1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/interface1/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My java learn/interface1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My java learn/interface1/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (4)">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.Array" />
       <module name="My java learn" />
@@ -166,17 +168,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anoymousClass.Test" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anoymousClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstraction1.Test" />
       <module name="My java learn" />
@@ -194,6 +185,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abstraction2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceMultiple.Test" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceMultiple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +250,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Array" />
       <item itemvalue="Application.Test (3)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +372,10 @@
       <workItem from="1621060815547" duration="1643000" />
       <workItem from="1621241701578" duration="600000" />
       <workItem from="1621435207642" duration="7946000" />
-      <workItem from="1621532992916" duration="712000" />
+      <workItem from="1621532992916" duration="1018000" />
+      <workItem from="1621691095739" duration="548000" />
+      <workItem from="1621961409864" duration="431000" />
+      <workItem from="1622542789442" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -474,22 +479,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="123" key="GridCell.Tab.0.bottom" timestamp="1621533771768">
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom" timestamp="1622552472517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="123" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621533771768" />
-    <state width="1323" height="123" key="GridCell.Tab.0.center" timestamp="1621533771767">
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622552472517" />
+    <state width="1323" height="123" key="GridCell.Tab.0.center" timestamp="1622552472516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="123" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621533771767" />
-    <state width="1323" height="123" key="GridCell.Tab.0.left" timestamp="1621533771766">
+    <state width="1323" height="123" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622552472516" />
+    <state width="1323" height="123" key="GridCell.Tab.0.left" timestamp="1622552472516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="123" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621533771766" />
-    <state width="1323" height="123" key="GridCell.Tab.0.right" timestamp="1621533771768">
+    <state width="1323" height="123" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622552472516" />
+    <state width="1323" height="123" key="GridCell.Tab.0.right" timestamp="1622552472516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="123" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621533771768" />
+    <state width="1323" height="123" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622552472516" />
     <state width="1323" height="214" key="GridCell.Tab.1.bottom" timestamp="1621452143361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -510,10 +515,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1619598386638" />
-    <state x="155" y="0" key="SettingsEditor" timestamp="1620709354984">
+    <state x="155" y="0" key="SettingsEditor" timestamp="1621961810796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620709354984" />
+    <state x="155" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621961810796" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1620709252155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
