@@ -6,7 +6,7 @@ public class SolvException2 {
     public static void main(String[] args) {
 
 
-        int count = 1;
+        int count = 1;           //question solve
         do {
 
             try {
