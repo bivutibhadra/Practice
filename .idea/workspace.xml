@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bookExmple2/Exmple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemSolve/SolvException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolve/SolvException2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +74,9 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SolvException2">
-    <configuration name="Exception4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_Handling.Exception4" />
+  <component name="RunManager" selected="Application.Exmple">
+    <configuration name="Excetion5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_Handling.Excetion5" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +86,12 @@
       </extension>
       <method v="2" />
     </configuration>
-    <configuration name="Excetion5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_Handling.Excetion5" />
+    <configuration name="Exmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookExmple2.Exmple" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_Handling.*" />
+          <option name="PATTERN" value="bookExmple2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,19 +246,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.Exception4" />
       <item itemvalue="Application.Excetion5" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.SolvException" />
       <item itemvalue="Application.SolvException2" />
+      <item itemvalue="Application.Exmple" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exmple" />
         <item itemvalue="Application.SolvException2" />
         <item itemvalue="Application.SolvException" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Excetion5" />
-        <item itemvalue="Application.Exception4" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,9 @@
       <workItem from="1622542789442" duration="6768000" />
       <workItem from="1622631058188" duration="4792000" />
       <workItem from="1622748811627" duration="823000" />
-      <workItem from="1622803781920" duration="4658000" />
+      <workItem from="1622803781920" duration="4754000" />
+      <workItem from="1623320419139" duration="105000" />
+      <workItem from="1624191801684" duration="3352000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -482,38 +484,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1622815079017">
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom" timestamp="1624199318715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622815079017" />
-    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1622815079017">
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624199318715" />
+    <state width="1323" height="123" key="GridCell.Tab.0.center" timestamp="1624199318715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622815079017" />
-    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1622815079017">
+    <state width="1323" height="123" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624199318715" />
+    <state width="1323" height="123" key="GridCell.Tab.0.left" timestamp="1624199318714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622815079017" />
-    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1622815079017">
+    <state width="1323" height="123" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624199318714" />
+    <state width="1323" height="123" key="GridCell.Tab.0.right" timestamp="1624199318715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622815079017" />
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1622815020104">
+    <state width="1323" height="123" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624199318715" />
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624199278715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622815020104" />
-    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1622815020104">
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624199278715" />
+    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1624199278715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1622815020104" />
-    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1622815020104">
+    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624199278715" />
+    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1624199278714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1622815020104" />
-    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1622815020104">
+    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624199278714" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1624199278715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1622815020104" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624199278715" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1619598386638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
