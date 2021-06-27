@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/forrmiting/Forrmmiting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toString/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toString/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Forrmmiting">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="Exmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bookExmple2.Exmple" />
       <module name="My java learn" />
@@ -136,12 +137,12 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excepTest.Main" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toString.PersonTest" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excepTest.*" />
+          <option name="PATTERN" value="toString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,17 +160,6 @@
       <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="SolvException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolve.SolvException" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemSolve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
     </configuration>
     <configuration name="SolvException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolve.SolvException2" />
@@ -207,6 +197,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction1.Test" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstraction1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
     </configuration>
     <configuration name="WhileInputData" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.WhileInputData" />
@@ -246,19 +247,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.SolvException" />
       <item itemvalue="Application.SolvException2" />
       <item itemvalue="Application.Exmple" />
       <item itemvalue="Application.Forrmmiting" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.PersonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Forrmmiting" />
         <item itemvalue="Application.Exmple" />
         <item itemvalue="Application.SolvException2" />
-        <item itemvalue="Application.SolvException" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +380,11 @@
       <workItem from="1624191801684" duration="4384000" />
       <workItem from="1624379112532" duration="1423000" />
       <workItem from="1624438326949" duration="222000" />
-      <workItem from="1624638622694" duration="232000" />
+      <workItem from="1624638622694" duration="2021000" />
+      <workItem from="1624723103439" duration="61000" />
+      <workItem from="1624729732912" duration="31000" />
+      <workItem from="1624731037576" duration="122000" />
+      <workItem from="1624788860025" duration="1891000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -427,10 +432,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1620225255404" />
-    <state x="275" y="23" key="#Intentions" timestamp="1620415329737">
+    <state x="275" y="23" key="#Intentions" timestamp="1624790515105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1620415329737" />
+    <state x="275" y="23" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1624790515105" />
     <state x="275" y="23" key="#Menus_and_Toolbars" timestamp="1620667475904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -455,10 +460,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="85" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1617473538529" />
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1622556466523">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1624790653456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622556466523" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624790653456" />
     <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617477166975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -487,38 +492,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1624381369640">
+    <state width="1181" height="125" key="GridCell.Tab.0.bottom" timestamp="1624790727685">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624381369640" />
-    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1624381369639">
+    <state width="1181" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624790727685" />
+    <state width="1181" height="125" key="GridCell.Tab.0.center" timestamp="1624790727685">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624381369639" />
-    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1624381369639">
+    <state width="1181" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624790727685" />
+    <state width="1181" height="125" key="GridCell.Tab.0.left" timestamp="1624790727684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624381369639" />
-    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1624381369639">
+    <state width="1181" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624790727684" />
+    <state width="1181" height="125" key="GridCell.Tab.0.right" timestamp="1624790727685">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624381369639" />
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624381369640">
+    <state width="1181" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624790727685" />
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624789914910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624381369640" />
-    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1624381369640">
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624789914910" />
+    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1624789914910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624381369640" />
-    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1624381369640">
+    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624789914910" />
+    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1624789914910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624381369640" />
-    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1624381369640">
+    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624789914910" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1624789914910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624381369640" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624789914910" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1619598386638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
