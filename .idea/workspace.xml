@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkList2/StudentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkList2/StudentListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashMap/HashmapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkList/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkList/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentListTest">
+  <component name="RunManager" selected="Application.HashmapDemo">
     <configuration name="ForLoop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ForLoop" />
       <module name="My java learn" />
@@ -90,12 +88,12 @@
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Forrmmiting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forrmiting.Forrmmiting" />
+    <configuration name="HashmapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.HashmapDemo" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="forrmiting.*" />
+          <option name="PATTERN" value="hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +246,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.Forrmmiting" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.StudentListTest" />
+      <item itemvalue="Application.HashmapDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashmapDemo" />
         <item itemvalue="Application.StudentListTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Forrmmiting" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +386,9 @@
       <workItem from="1624788860025" duration="1891000" />
       <workItem from="1624791962803" duration="3686000" />
       <workItem from="1624861909814" duration="654000" />
-      <workItem from="1624866843669" duration="1652000" />
+      <workItem from="1624866843669" duration="2079000" />
+      <workItem from="1624868947936" duration="356000" />
+      <workItem from="1624892544486" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -496,22 +496,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1624868562603">
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1624868924309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624868562603" />
-    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1624868562603">
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
+    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1624868924309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624868562603" />
-    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1624868562602">
+    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1624868924309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624868562602" />
-    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1624868562603">
+    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1624868924309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624868562603" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
     <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624798519874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
