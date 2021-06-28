@@ -16,7 +16,7 @@ public class Test {
         countryName.addLast ("dubai");
         countryName.remove ("");
         countryName.removeFirst ();
-        countryName.removeLast ();
+        countryName.removeLast () ;
 
 
 
