@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hashMap/HashmapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashList/HashList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashmapDemo">
+  <component name="RunManager" selected="Application.HashList">
     <configuration name="ForLoop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ForLoop" />
       <module name="My java learn" />
@@ -87,6 +87,17 @@
       <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="HashList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashList.HashList" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
     </configuration>
     <configuration name="HashmapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hashMap.HashmapDemo" />
@@ -197,17 +208,6 @@
       </extension>
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction1.Test" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstraction1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
     <configuration name="WhileInputData" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.WhileInputData" />
       <module name="My java learn" />
@@ -246,19 +246,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.PersonTest" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.StudentListTest" />
       <item itemvalue="Application.HashmapDemo" />
+      <item itemvalue="Application.HashList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashList" />
         <item itemvalue="Application.HashmapDemo" />
         <item itemvalue="Application.StudentListTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +388,8 @@
       <workItem from="1624861909814" duration="654000" />
       <workItem from="1624866843669" duration="2079000" />
       <workItem from="1624868947936" duration="356000" />
-      <workItem from="1624892544486" duration="945000" />
+      <workItem from="1624892544486" duration="2390000" />
+      <workItem from="1624949758088" duration="1410000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -496,22 +497,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1624868924309">
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom" timestamp="1624951284593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
-    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1624868924309">
+    <state width="1323" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624951284593" />
+    <state width="1323" height="110" key="GridCell.Tab.0.center" timestamp="1624951284593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
-    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1624868924309">
+    <state width="1323" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624951284593" />
+    <state width="1323" height="110" key="GridCell.Tab.0.left" timestamp="1624951284592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
-    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1624868924309">
+    <state width="1323" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624951284592" />
+    <state width="1323" height="110" key="GridCell.Tab.0.right" timestamp="1624951284593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624868924309" />
+    <state width="1323" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624951284593" />
     <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624798519874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -556,10 +557,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1619373620449" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1624796005126">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1624950693281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1624796005126" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1624950693281" />
     <state x="354" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1617605659459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
