@@ -8,8 +8,10 @@ public class FileCreat {
         File dir = new File("C:/Users/Bivuti/OneDrive/Desktop/Test");
         dir.mkdir();
 
-        File fle = new File("C:/Users/Bivuti/OneDrive/Desktop/Test/student.txt");
-        File fle2 = new File("C:/Users/Bivuti/OneDrive/Desktop/Test/student2.txt");
+        String path = dir.getAbsolutePath();
+
+        File fle = new File(path+"/student.txt");
+        File fle2 = new File(path+"/student2.txt");
 
 
         try {
