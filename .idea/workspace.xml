@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5ca668-26ea-47c7-823b-7759bc329037" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/writFile/WritDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/FileCreat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/FileCreat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forrmiting/Forrmmiting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forrmiting/Forrmmiting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,19 +75,39 @@
       <recent name="problemOfbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileCreat">
-    <configuration name="Derictori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="file.Derictori" />
+  <component name="RunManager" selected="Application.WritDemo">
+    <configuration name="ArrayInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayInput" />
       <module name="My java learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="file.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="MakeNoErrorCheck" enabled="true" />
-      </method>
+      <method v="2" />
+    </configuration>
+    <configuration name="Arry2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Arry2" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.DoWhile" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
     </configuration>
     <configuration name="FileCreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="file.FileCreat" />
@@ -111,28 +132,6 @@
       <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="HashList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashList.HashList" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
-    </configuration>
-    <configuration name="HashmapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMap.HashmapDemo" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hashMap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
     </configuration>
     <configuration name="HelloWord" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloWord.HelloWord" />
@@ -172,17 +171,6 @@
       <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="StudentListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkList2.StudentListTest" />
-      <module name="My java learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkList2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2" />
     </configuration>
     <configuration name="Studenttest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="staticskeyword.Studenttest" />
@@ -236,6 +224,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WritDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="writFile.WritDemo" />
+      <module name="My java learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="writFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
@@ -248,19 +247,19 @@
       <item itemvalue="Application.WhileInputData" />
       <item itemvalue="Application.IfElse" />
       <item itemvalue="Application.Returingmethodtest" />
-      <item itemvalue="Application.StudentListTest" />
-      <item itemvalue="Application.HashmapDemo" />
-      <item itemvalue="Application.HashList" />
-      <item itemvalue="Application.Derictori" />
       <item itemvalue="Application.FileCreat" />
+      <item itemvalue="Application.ArrayInput" />
+      <item itemvalue="Application.Arry2" />
+      <item itemvalue="Application.DoWhile" />
+      <item itemvalue="Application.WritDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WritDemo" />
         <item itemvalue="Application.FileCreat" />
-        <item itemvalue="Application.Derictori" />
-        <item itemvalue="Application.HashList" />
-        <item itemvalue="Application.HashmapDemo" />
-        <item itemvalue="Application.StudentListTest" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.Arry2" />
+        <item itemvalue="Application.ArrayInput" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +392,12 @@
       <workItem from="1624892544486" duration="2390000" />
       <workItem from="1624949758088" duration="2373000" />
       <workItem from="1625036634092" duration="1875000" />
-      <workItem from="1625052797707" duration="2212000" />
+      <workItem from="1625052797707" duration="2651000" />
+      <workItem from="1625055544107" duration="305000" />
+      <workItem from="1625126030502" duration="1197000" />
+      <workItem from="1625149448062" duration="1334000" />
+      <workItem from="1625166613032" duration="237000" />
+      <workItem from="1625224749554" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1619765127765</created>
@@ -449,10 +453,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Menus_and_Toolbars/0.0.1366.728@0.0.1366.728" timestamp="1620667475904" />
-    <state x="275" y="23" key="#Notifications" timestamp="1616573954214">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1616573954214" />
     <state x="400" y="19" key="#Returingmethodtest" timestamp="1620659988939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -461,10 +461,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1625053973862" />
-    <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616506478329">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616506478329" />
     <state x="463" y="85" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1617473538529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -501,38 +497,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621017452211" />
-    <state width="1323" height="110" key="GridCell.Tab.0.bottom" timestamp="1625055238516">
+    <state width="690" height="107" key="GridCell.Tab.0.bottom" timestamp="1625226561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625055238516" />
-    <state width="1323" height="110" key="GridCell.Tab.0.center" timestamp="1625055238516">
+    <state width="690" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625226561923" />
+    <state width="690" height="107" key="GridCell.Tab.0.center" timestamp="1625226561922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625055238516" />
-    <state width="1323" height="110" key="GridCell.Tab.0.left" timestamp="1625055238516">
+    <state width="690" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625226561922" />
+    <state width="690" height="107" key="GridCell.Tab.0.left" timestamp="1625226561922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625055238516" />
-    <state width="1323" height="110" key="GridCell.Tab.0.right" timestamp="1625055238516">
+    <state width="690" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625226561922" />
+    <state width="690" height="107" key="GridCell.Tab.0.right" timestamp="1625226561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="110" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625055238516" />
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1624798519874">
+    <state width="690" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625226561923" />
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1625166849543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624798519874" />
-    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1624798519874">
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625166849543" />
+    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1625166849543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624798519874" />
-    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1624798519874">
+    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1625166849543" />
+    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1625166849543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624798519874" />
-    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1624798519874">
+    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1625166849543" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1625166849543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624798519874" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1625166849543" />
     <state x="263" y="99" key="IDE.errors.dialog" timestamp="1619598386638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

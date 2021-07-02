@@ -11,4 +11,7 @@ public class Forrmmiting {
         System.out.println("Format " +ob.format (x));
 
     }
+
+    public void format(String s, String s1, String bivuti) {
+    }
 }
